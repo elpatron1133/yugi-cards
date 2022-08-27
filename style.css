@@ -1,0 +1,13 @@
+img.img-card{
+    margin-top: 10px;
+    width: 25%;
+    height: auto;
+    border-radius: 2px;
+    text-align:center;
+}
+
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
